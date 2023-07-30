@@ -8,7 +8,7 @@ The main file is test_model.ipynb. This file contain preprocessed datasets, the 
 
 ## Usage
 
-You need to import test_model.ipynb and prep.py. With IDE, download all libs. To load trained model, save the m4.pt file from [disk](https://drive.google.com/file/d/1C-Hji7nU2CQO_HEYD_ePInjfkixWukT9/view?usp=sharing) in directory with this files. If app don't see m4 file, just write full path to this file.
+You need to import test_model.ipynb and prep.py. With IDE, download all libs, you find their in first code blocks. To load trained model, save the m4.pt file from [disk](https://drive.google.com/file/d/1C-Hji7nU2CQO_HEYD_ePInjfkixWukT9/view?usp=sharing) in directory with this files. If app don't see m4 file, just write full path to this file.
 
 # Data
 
