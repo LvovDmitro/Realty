@@ -1,0 +1,12 @@
+﻿<h1>Недвижимость</h1>
+<h3>@Model.currCategory</h3>
+<div class="row mt-5 mb-2">
+    @{
+        foreach (Flat flat in Model.allFlats)
+        {
+            @Html.Partial("AllFlats", flat)
+            }
+
+        }
+</div>
+
